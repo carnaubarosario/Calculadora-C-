@@ -1,0 +1,16 @@
+C:\Users\Lucca\Desktop\Curso C#\Aula15\bin\Debug\net5.0\Aula15.exe
+C:\Users\Lucca\Desktop\Curso C#\Aula15\bin\Debug\net5.0\Aula15.deps.json
+C:\Users\Lucca\Desktop\Curso C#\Aula15\bin\Debug\net5.0\Aula15.runtimeconfig.json
+C:\Users\Lucca\Desktop\Curso C#\Aula15\bin\Debug\net5.0\Aula15.runtimeconfig.dev.json
+C:\Users\Lucca\Desktop\Curso C#\Aula15\bin\Debug\net5.0\Aula15.dll
+C:\Users\Lucca\Desktop\Curso C#\Aula15\bin\Debug\net5.0\ref\Aula15.dll
+C:\Users\Lucca\Desktop\Curso C#\Aula15\bin\Debug\net5.0\Aula15.pdb
+C:\Users\Lucca\Desktop\Curso C#\Aula15\obj\Debug\net5.0\Aula15.csproj.AssemblyReference.cache
+C:\Users\Lucca\Desktop\Curso C#\Aula15\obj\Debug\net5.0\Aula15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucca\Desktop\Curso C#\Aula15\obj\Debug\net5.0\Aula15.AssemblyInfoInputs.cache
+C:\Users\Lucca\Desktop\Curso C#\Aula15\obj\Debug\net5.0\Aula15.AssemblyInfo.cs
+C:\Users\Lucca\Desktop\Curso C#\Aula15\obj\Debug\net5.0\Aula15.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\Desktop\Curso C#\Aula15\obj\Debug\net5.0\Aula15.dll
+C:\Users\Lucca\Desktop\Curso C#\Aula15\obj\Debug\net5.0\ref\Aula15.dll
+C:\Users\Lucca\Desktop\Curso C#\Aula15\obj\Debug\net5.0\Aula15.pdb
+C:\Users\Lucca\Desktop\Curso C#\Aula15\obj\Debug\net5.0\Aula15.genruntimeconfig.cache
